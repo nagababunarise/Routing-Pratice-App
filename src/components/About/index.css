@@ -1,0 +1,23 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-image {
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+  margin-top: 250px;
+}
+.about-heading {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+.para {
+  color: #555555;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 400;
+}
